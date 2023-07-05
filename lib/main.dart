@@ -46,32 +46,26 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Colors.transparent,
-      body: Container(
-        decoration: BoxDecoration(
-          image: DecorationImage(
-            image: AssetImage('assets/image/wallpaper.jpg'),
-            fit: BoxFit.cover,
-          ),
-        ),
-        child: Center(
-          child: Text(
-            'Launcher Ética',
-            style: TextStyle(
-              fontSize: 24,
-              fontWeight: FontWeight.bold,
-              color: Colors.white,
+      body: Stack(
+        fit: StackFit
+            .expand, // Faz com que o conteúdo preencha todo o espaço disponível
+        children: [
+          // Widget Container que exibe o wallpaper como fundo
+          Container(
+            decoration: BoxDecoration(
+              image: DecorationImage(
+                image: AssetImage('assets/image/etica-wallpaper.jpg'),
+                fit: BoxFit
+                    .cover, // Redimensiona a imagem para preencher o container
+              ),
             ),
           ),
-        ),
-      ),
-      bottomNavigationBar: BottomAppBar(
-        color: Color.fromARGB(160, 93, 44, 255),
-        elevation: 0,
-        child: Container(
-          height: 70,
-          child: Center(
-            child: GestureDetector(
-              onTap: () => navigateToApps(context),
+          // Widget Align que posiciona o conteúdo na parte inferior centralizada
+          Align(
+            alignment: Alignment.bottomCenter,
+            child: Padding(
+              padding: EdgeInsets.only(
+                  bottom: 32), // Adiciona um espaço inferior para o botão
               child: ElevatedButton(
                 onPressed: () => navigateToApps(context),
                 style: ElevatedButton.styleFrom(
@@ -89,7 +83,7 @@ class HomePage extends StatelessWidget {
               ),
             ),
           ),
-        ),
+        ],
       ),
     );
   }

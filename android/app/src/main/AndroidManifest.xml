@@ -9,7 +9,7 @@
     <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES"/>
     <application
         android:name="${applicationName}"
-        android:label="fl_live_launcher"
+        android:label="etica_launcher"
         android:icon="@mipmap/icon_etica">
         <activity
             android:exported="true"

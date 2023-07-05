@@ -72,17 +72,19 @@ class HomePage extends StatelessWidget {
           child: Center(
             child: GestureDetector(
               onTap: () => navigateToApps(context),
-              child: Container(
-                width: 60,
-                height: 60,
-                decoration: BoxDecoration(
-                  shape: BoxShape.circle,
-                  color: Color.fromARGB(188, 109, 7, 241),
+              child: ElevatedButton(
+                onPressed: () => navigateToApps(context),
+                style: ElevatedButton.styleFrom(
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(8),
+                  ),
+                  backgroundColor: Colors.black,
+                  padding: EdgeInsets.all(10),
                 ),
-                child: CircleAvatar(
-                  radius: 30,
-                  backgroundColor: Colors.transparent,
-                  backgroundImage: AssetImage('assets/image/logo.png'),
+                child: Image.asset(
+                  'assets/image/logo.png',
+                  width: 40,
+                  height: 40,
                 ),
               ),
             ),

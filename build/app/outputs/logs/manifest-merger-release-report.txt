@@ -1,0 +1,170 @@
+-- Merging decision tree log ---
+application
+INJECTED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:10:5-48:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\f4b825b564541cce43f8d9a5d4bc23b0\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\f4b825b564541cce43f8d9a5d4bc23b0\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\ed532868c3e1cb76afc42ef871938ca7\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\ed532868c3e1cb76afc42ef871938ca7\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\3323c09a2afd2028fbf83e635c87d01c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\3323c09a2afd2028fbf83e635c87d01c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\ed532868c3e1cb76afc42ef871938ca7\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:12:9-39
+	android:icon
+		ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:13:9-42
+	android:name
+		INJECTED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:11:9-42
+manifest
+ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:1:1-49:12
+MERGED from [:device_apps] D:\Empresas\Etica\Etica-Launcher\build\device_apps\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\f30c58ca330277f60358cefe2f1f38c8\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\f4b825b564541cce43f8d9a5d4bc23b0\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\dec6acba7fe3eff0d1fd5b41d76f5dba\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\7a8dc954c9ab3e2f7531fa6805f7fa14\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\d5e0357a7eb5480522728e15a4ae4b55\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\2d158682a81539e094b00779a3a533e8\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\9c5689ccee4818e3e8ff4c9322984a6e\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\ed532868c3e1cb76afc42ef871938ca7\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\845384f5b0dc89d3fc8806474f22b561\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\8b4a2047f274c14e450a674e7ca98034\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\76ce676fb595f781a1937be0bfb9063a\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\43b611d6b7df8a9cc18051979b1103c4\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\37ff84a96f8351ddc8417567113ecbee\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\c203c673a5c9595c966100dc9f973106\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\3323c09a2afd2028fbf83e635c87d01c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\869f02070d2766d46b8f63b1ca3afed0\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\11e1f0e06ee9923d192c0fdbd3cc0653\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:1:1-49:12
+	package
+		ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:1:1-49:12
+		INJECTED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:1:1-49:12
+		INJECTED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:2:5-63
+uses-permission#android.permission.QUERY_ALL_PACKAGES
+ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:9:22-74
+uses-sdk
+INJECTED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml
+MERGED from [:device_apps] D:\Empresas\Etica\Etica-Launcher\build\device_apps\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:device_apps] D:\Empresas\Etica\Etica-Launcher\build\device_apps\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\f30c58ca330277f60358cefe2f1f38c8\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\f30c58ca330277f60358cefe2f1f38c8\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\f4b825b564541cce43f8d9a5d4bc23b0\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\f4b825b564541cce43f8d9a5d4bc23b0\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\dec6acba7fe3eff0d1fd5b41d76f5dba\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\dec6acba7fe3eff0d1fd5b41d76f5dba\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\7a8dc954c9ab3e2f7531fa6805f7fa14\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\7a8dc954c9ab3e2f7531fa6805f7fa14\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\d5e0357a7eb5480522728e15a4ae4b55\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\d5e0357a7eb5480522728e15a4ae4b55\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\2d158682a81539e094b00779a3a533e8\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\2d158682a81539e094b00779a3a533e8\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\9c5689ccee4818e3e8ff4c9322984a6e\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\9c5689ccee4818e3e8ff4c9322984a6e\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\ed532868c3e1cb76afc42ef871938ca7\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\ed532868c3e1cb76afc42ef871938ca7\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\845384f5b0dc89d3fc8806474f22b561\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\845384f5b0dc89d3fc8806474f22b561\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\8b4a2047f274c14e450a674e7ca98034\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\8b4a2047f274c14e450a674e7ca98034\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\76ce676fb595f781a1937be0bfb9063a\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\76ce676fb595f781a1937be0bfb9063a\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\43b611d6b7df8a9cc18051979b1103c4\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\43b611d6b7df8a9cc18051979b1103c4\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\37ff84a96f8351ddc8417567113ecbee\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\37ff84a96f8351ddc8417567113ecbee\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\c203c673a5c9595c966100dc9f973106\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\c203c673a5c9595c966100dc9f973106\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\3323c09a2afd2028fbf83e635c87d01c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\3323c09a2afd2028fbf83e635c87d01c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\869f02070d2766d46b8f63b1ca3afed0\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\869f02070d2766d46b8f63b1ca3afed0\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\11e1f0e06ee9923d192c0fdbd3cc0653\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\11e1f0e06ee9923d192c0fdbd3cc0653\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml
+activity#com.popupbits.fl_live_launcher.MainActivity
+ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:14:9-44:20
+	android:launchMode
+		ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:17:13-43
+	android:hardwareAccelerated
+		ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:20:13-47
+	android:windowSoftInputMode
+		ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:21:13-55
+	android:exported
+		ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:15:13-36
+	android:configChanges
+		ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:19:13-163
+	android:theme
+		ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:18:13-53
+	android:name
+		ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:16:13-41
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:35:13-37:65
+	android:resource
+		ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:37:17-63
+	android:name
+		ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:36:17-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.HOME+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:38:13-43:29
+action#android.intent.action.MAIN
+ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:39:17-68
+	android:name
+		ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:40:17-76
+	android:name
+		ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:40:27-74
+category#android.intent.category.HOME
+ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:41:17-72
+	android:name
+		ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:41:27-70
+category#android.intent.category.DEFAULT
+ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:42:17-75
+	android:name
+		ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:42:27-73
+meta-data#flutterEmbedding
+ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:47:9-71
+	android:value
+		ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:47:52-69
+	android:name
+		ADDED from D:\Empresas\Etica\Etica-Launcher\android\app\src\main\AndroidManifest.xml:47:20-51
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\f4b825b564541cce43f8d9a5d4bc23b0\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\f4b825b564541cce43f8d9a5d4bc23b0\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\f4b825b564541cce43f8d9a5d4bc23b0\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\f4b825b564541cce43f8d9a5d4bc23b0\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\f4b825b564541cce43f8d9a5d4bc23b0\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Henrique Reimão\.gradle\caches\transforms-3\f4b825b564541cce43f8d9a5d4bc23b0\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51

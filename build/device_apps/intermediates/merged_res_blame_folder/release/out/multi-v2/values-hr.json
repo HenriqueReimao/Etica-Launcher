@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "fr.g123k.deviceapps.device_apps-mergeReleaseResources-8:/values-hr/values-hr.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Henrique Reimão\\.gradle\\caches\\transforms-3\\ed532868c3e1cb76afc42ef871938ca7\\transformed\\core-1.6.0\\res\\values-hr\\values-hr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "fr.g123k.deviceapps.device_apps-merged_res-10:/values-hr/values-hr.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Henrique Reimão\\.gradle\\caches\\transforms-3\\ed532868c3e1cb76afc42ef871938ca7\\transformed\\core-1.6.0\\res\\values-hr\\values-hr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

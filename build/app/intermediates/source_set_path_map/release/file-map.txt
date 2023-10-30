@@ -1,0 +1,13 @@
+com.popupbits.fl_live_launcher.app-jetified-annotation-experimental-1.1.0-0 C:\Users\Henrique Reimão\.gradle\caches\transforms-3\11e1f0e06ee9923d192c0fdbd3cc0653\transformed\jetified-annotation-experimental-1.1.0\res
+com.popupbits.fl_live_launcher.app-core-1.6.0-1 C:\Users\Henrique Reimão\.gradle\caches\transforms-3\ed532868c3e1cb76afc42ef871938ca7\transformed\core-1.6.0\res
+com.popupbits.fl_live_launcher.app-jetified-window-java-1.0.0-beta04-2 C:\Users\Henrique Reimão\.gradle\caches\transforms-3\f30c58ca330277f60358cefe2f1f38c8\transformed\jetified-window-java-1.0.0-beta04\res
+com.popupbits.fl_live_launcher.app-jetified-window-1.0.0-beta04-3 C:\Users\Henrique Reimão\.gradle\caches\transforms-3\f4b825b564541cce43f8d9a5d4bc23b0\transformed\jetified-window-1.0.0-beta04\res
+com.popupbits.fl_live_launcher.app-main-4 D:\Empresas\Etica\Etica-Launcher\android\app\src\main\res
+com.popupbits.fl_live_launcher.app-release-5 D:\Empresas\Etica\Etica-Launcher\android\app\src\release\res
+com.popupbits.fl_live_launcher.app-pngs-6 D:\Empresas\Etica\Etica-Launcher\build\app\generated\res\pngs\release
+com.popupbits.fl_live_launcher.app-resValues-7 D:\Empresas\Etica\Etica-Launcher\build\app\generated\res\resValues\release
+com.popupbits.fl_live_launcher.app-rs-8 D:\Empresas\Etica\Etica-Launcher\build\app\generated\res\rs\release
+com.popupbits.fl_live_launcher.app-mergeReleaseResources-9 D:\Empresas\Etica\Etica-Launcher\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.popupbits.fl_live_launcher.app-mergeReleaseResources-10 D:\Empresas\Etica\Etica-Launcher\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.popupbits.fl_live_launcher.app-merged_res-11 D:\Empresas\Etica\Etica-Launcher\build\app\intermediates\merged_res\release
+com.popupbits.fl_live_launcher.app-packaged_res-12 D:\Empresas\Etica\Etica-Launcher\build\device_apps\intermediates\packaged_res\release

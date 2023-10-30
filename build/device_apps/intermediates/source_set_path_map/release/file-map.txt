@@ -1,0 +1,12 @@
+fr.g123k.deviceapps.device_apps-jetified-annotation-experimental-1.1.0-0 C:\Users\Henrique Reimão\.gradle\caches\transforms-3\11e1f0e06ee9923d192c0fdbd3cc0653\transformed\jetified-annotation-experimental-1.1.0\res
+fr.g123k.deviceapps.device_apps-core-1.6.0-1 C:\Users\Henrique Reimão\.gradle\caches\transforms-3\ed532868c3e1cb76afc42ef871938ca7\transformed\core-1.6.0\res
+fr.g123k.deviceapps.device_apps-jetified-window-java-1.0.0-beta04-2 C:\Users\Henrique Reimão\.gradle\caches\transforms-3\f30c58ca330277f60358cefe2f1f38c8\transformed\jetified-window-java-1.0.0-beta04\res
+fr.g123k.deviceapps.device_apps-jetified-window-1.0.0-beta04-3 C:\Users\Henrique Reimão\.gradle\caches\transforms-3\f4b825b564541cce43f8d9a5d4bc23b0\transformed\jetified-window-1.0.0-beta04\res
+fr.g123k.deviceapps.device_apps-main-4 C:\Users\Henrique Reimão\AppData\Local\Pub\Cache\hosted\pub.dev\device_apps-2.2.0\android\src\main\res
+fr.g123k.deviceapps.device_apps-release-5 C:\Users\Henrique Reimão\AppData\Local\Pub\Cache\hosted\pub.dev\device_apps-2.2.0\android\src\release\res
+fr.g123k.deviceapps.device_apps-pngs-6 D:\Empresas\Etica\Etica-Launcher\build\device_apps\generated\res\pngs\release
+fr.g123k.deviceapps.device_apps-resValues-7 D:\Empresas\Etica\Etica-Launcher\build\device_apps\generated\res\resValues\release
+fr.g123k.deviceapps.device_apps-rs-8 D:\Empresas\Etica\Etica-Launcher\build\device_apps\generated\res\rs\release
+fr.g123k.deviceapps.device_apps-mergeReleaseResources-9 D:\Empresas\Etica\Etica-Launcher\build\device_apps\intermediates\incremental\release\mergeReleaseResources\merged.dir
+fr.g123k.deviceapps.device_apps-mergeReleaseResources-10 D:\Empresas\Etica\Etica-Launcher\build\device_apps\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+fr.g123k.deviceapps.device_apps-merged_res-11 D:\Empresas\Etica\Etica-Launcher\build\device_apps\intermediates\merged_res\release
